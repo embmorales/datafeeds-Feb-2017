@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/all-products/",
+    "Headline": "LAST CHANCE to get 20% off! Use code: 20TREAT",
+    "Subline": "Minimum spend of P2,500. Ends March 1, 12 noon. Brand exclusions apply",
+    "EventLabel": "SAL|WC-WS-WA|wtreatyourself|ALL|MAX%"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/new-products/",
+    "Headline": "Last change to Get 15% off! Use code: 15TREAT",
+    "Subline": "Minimum spend of P1,800. Ends March 1, 12 noon. Brand exclusions apply",
+    "EventLabel": "SAL|WC-WS-WA|wtreatyourselffifteen|ALL|MAX%"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/AllEyesoNew_Hero_women_996x500.jpg",
+    "Exit Url": "/women/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NEWA|WC-WA-WS|walleyesonnew|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/AddictsAnonymous_NI_women_360x420.jpg",
+    "Exit Url": "/women/addicts-anonymous/",
+    "Headline": "ADDICTS ANONYMOUS",
+    "Subline": "Look no further for fresh street styles and sleek designs.",
+    "EventLabel": "BRA|WS|waddictanonymous|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/N2_NEWARRIVALS_620x420_Soft_Utility.jpg",
+    "Exit Url": "/women/all-products/",
+    "Headline": "SOFT UTILITY",
+    "Subline": "Indulge in the perfect blend of fluted sleeves, light ruffles and flowy bottoms",
+    "EventLabel": "THE|WC|wsoftutility|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Off-Duty_women_CU4_620x420.jpg",
+    "Exit Url": "/women/trends/off-duty",
+    "Headline": "OFF-DUTY",
+    "Subline": "Casual yet chic out of office looks for the work-free weekend.",
+    "EventLabel": "THE|WC|woffduty|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Topitup_women_CU2_360x420.jpg",
+    "Exit Url": "/women/clothing/tops/new-products/?sort=popularity&price=149-899",
+    "Headline": "TOP IT UP UNDER P900",
+    "Subline": "Top picks on the latest trends under P900",
+    "EventLabel": "SUB|WC|wtopitup|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Nautical_women_CU3_360x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=nautical",
+    "Headline": "NEW SEASON NAUTICAL",
+    "Subline": "A trend that is perpetually in fashion - you can never go wrong with Breton stripes or a touch of red, white and navy.",
+    "EventLabel": "THE|WC|wnewseasonnautical|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/FancyFeet_women_CU1_620x420.jpg",
+    "Exit Url": "/women/shoes/flats/?sort=popularity&price=199-999",
+    "Headline": "FANCY FEET",
+    "Subline": "Take a walk on the glamorous side with our collection of flats under P1000.",
+    "EventLabel": "SUB|WS|wfancyfeet|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/LavishAlice_322x165.jpg",
+    "Exit Url": "/lavish-alice/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA-NEWA|WC|wlavishalicefb|ALL|lavish-alice"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Adidas_322x165.jpg",
+    "Exit Url": "/women/sports/adidas",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WSP|wadidasfb|ALL|adidas"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/Regatta_womens_322x165.jpg",
+    "Exit Url": "/women/regatta/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WC|wregattafb|ALL|regatta"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/ShapesCurves_FeaturedBrand_322x165.jpg",
+    "Exit Url": "/women/shapes-and-curves",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WC|wshapesandcurvesfb|ALL|shapes-and-curves"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/guess_322x165.jpg",
+    "Exit Url": "/women/guess",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WC|wguessfb|ALL|guess"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/nyx_322x165.jpg",
+    "Exit Url": "/women/beauty/nyx-cosmetics/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WBE|wnyxcosmeticsfb|ALL|nyx-cosmetics"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Tops_w9.jpg",
+    "Exit Url": "/women/clothing/tops/",
+    "Headline": "NA",
+    "Subline": "Shop Tops >",
+    "EventLabel": "SUB|WC|wtops|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Heels_w9.jpg",
+    "Exit Url": "/women/shoes/heels/",
+    "Headline": "NA",
+    "Subline": "Shop Heels >",
+    "EventLabel": "SUB|WS|wheels|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Dresses_w9.jpg",
+    "Exit Url": "/women/clothing/dresses/",
+    "Headline": "NA",
+    "Subline": "Shop Dresses >",
+    "EventLabel": "SUB|WC|wdresses|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Makeup_w9.jpg",
+    "Exit Url": "/women/beauty/make-up/",
+    "Headline": "NA",
+    "Subline": "Shop Make-up >",
+    "EventLabel": "SUB|WBE|wmakeup|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Backpacks_w9.jpg",
+    "Exit Url": "/women/bags/backpacks/",
+    "Headline": "NA",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "SUB|WB|wbackpack|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/new-products/",
+    "Headline": "Get 15% off! Use code: 15TREAT",
+    "Subline": "Minimum spend of P1,800",
+    "EventLabel": "SAL|MC-MS-MA|wtreatyourselffifteen|ALL|MAX%"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/all-products/",
+    "Headline": "Get 20% off! Use code: 20TREAT",
+    "Subline": "Minimum spend of P2,500",
+    "EventLabel": "SAL|MC-MS-MA|mtreatyourself|ALL|MAX%"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/PerfectPair_Hero_Men_996x500.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_three=perfect-pair",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "THE|MC-MA|mperfectpair|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Game_On_Men_360x420.jpg",
+    "Exit Url": "/men/sports/sports-clothing/?sort=popularity&price=200-1500",
+    "Headline": "Get Your Game Look On",
+    "Subline": "Activewear below P1,500 to amp up your routine",
+    "EventLabel": "SUB|MSP|mgetyourgameon|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2_620x420_NewInStyles.jpg",
+    "Exit Url": "/men/new-products/?price=999-40115",
+    "Headline": "New-In Styles",
+    "Subline": "Staples and standouts from P999",
+    "EventLabel": "NEWA|MC-MS-MA|mnewinstyles|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Jaxon_322x165.jpg",
+    "Exit Url": "/men/jaxon/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MC|mjaxonfb|ALL|jaxon"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Esprit_322x165.jpg",
+    "Exit Url": "/men/esprit/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MC-MS|mespritfb|ALL|levi-s"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Italianos_322x165.jpg",
+    "Exit Url": "/men/italianos/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MS|mitalianosfb|ALL|invicta"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/OnitsukaTiger_322x165_20170217_fb.jpg",
+    "Exit Url": "/men/onitsuka-tiger/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MSP-MS|monitsukatigerfb|ALL|onitsuka-tiger"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Casio_322x165.jpg",
+    "Exit Url": "/men/casio/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MA|mcasiofb|ALL|daniel-wellington"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/Regatta_Mens_322x165.jpg",
+    "Exit Url": "/men/regatta/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MC|mregattafb|ALL|regatta"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_SportsShoes_w9.jpg",
+    "Exit Url": "/men/sports/sports-footwear/",
+    "Headline": "NA",
+    "Subline": "Shop Sport Shoes >",
+    "EventLabel": "SUB|MS-MSP|msportshoes|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Tshirts_w9.jpg",
+    "Exit Url": "/men/clothing/t-shirts/",
+    "Headline": "NA",
+    "Subline": "Shop T-Shirts >",
+    "EventLabel": "SUB|MC|mtshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Shirts_w9.jpg",
+    "Exit Url": "/men/clothing/shirts/",
+    "Headline": "NA",
+    "Subline": "Shop Shirts >",
+    "EventLabel": "SUB|MC|mshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Watches_w9.jpg",
+    "Exit Url": "/men/watches/",
+    "Headline": "NA",
+    "Subline": "Shop Watches >",
+    "EventLabel": "SUB|MA|mwatches|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Jeans_w9.jpg",
+    "Exit Url": "/men/clothing/jeans/",
+    "Headline": "NA",
+    "Subline": "Shop Jeans >",
+    "EventLabel": "SUB|MC|mjeans|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/700x200_SkinnyBannerTreatYourself.jpg",
+    "Exit Url": "/women/all-products/",
+    "Headline": "Na",
+    "Subline": "NA",
+    "EventLabel": "SAL|WC-WS-WA|mtreatyourself|ALL|VC%"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/All_eyes_on_newMobileHero_600x600.jpg",
+    "Exit Url": "/women/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NEWA|WC-WA-WS|walleyesonnew|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/addictanon_Ncu1_620x420.jpg",
+    "Exit Url": "/women/addicts-anonymous/",
+    "Headline": "Addicts Anonymous",
+    "Subline": "Look no further for fresh street styles and sleek designs",
+    "EventLabel": "BRA|WS|waddictanonymous|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/TreatYourself_NCU1_620x420.jpg",
+    "Exit Url": "/women/all-products/",
+    "Headline": "Get 20% off use code 20TREAT. Minimum spend of P2,500",
+    "Subline": "Get 20% off use code 20TREAT. \nGet 15% off min spend P1,800 use code 15TREAT.",
+    "EventLabel": "SAL|WC-WS-WA|wtreatyourself|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Tops_w9-mobile.jpg",
+    "Exit Url": "/women/clothing/tops/",
+    "Headline": "Shop Tops >",
+    "Subline": "NA",
+    "EventLabel": "SUB|WC|wtops|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/700x200_SkinnyBannerTreatYourself.jpg",
+    "Exit Url": "/women/shoes/flat-slide/",
+    "Headline": "Shop Slides >",
+    "Subline": "NA",
+    "EventLabel": "SUB|WS|wslides|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/700x200_SkinnyBannerTreatYourself.jpg",
+    "Exit Url": "/men/all-products/",
+    "Headline": "Na",
+    "Subline": "NA",
+    "EventLabel": "SAL|MC-MS-MA|mtreatyourself|ALL|VC%"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/mobileweb_hero_600x600_0227.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=season-must-haves",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "THE|MC-MS-MA|mspringmusthaves|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/N2-CU1-CU4_620x420.jpg",
+    "Exit Url": "/men/sports/sports-clothing/?sort=popularity&price=200-1500",
+    "Headline": "Get Your Game Look On",
+    "Subline": "Activewear below P1,500 to amp up your routine.",
+    "EventLabel": "SUB|MSP|mgetyourgameon|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/TreatYourself_NCU1_620x420.jpg",
+    "Exit Url": "/men/all-products/",
+    "Headline": "Get 20% off use code 20TREAT. Minimum spend of P2,500",
+    "Subline": "Get 20% off use code 20TREAT. \nGet 15% off min spend P1,800 use code 15TREAT.",
+    "EventLabel": "SAL|MC-MS-MA|mtreatyourself|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_SportsShoes_w9_mobile.jpg",
+    "Exit Url": "/men/sports/sports-footwear/",
+    "Headline": "Shop Sport Shoes >",
+    "Subline": "NA",
+    "EventLabel": "SUB|MSP-MS|msportshoes|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Shirts_w9_mobile.jpg",
+    "Exit Url": "/men/clothing/shirts/",
+    "Headline": "Shop Shirts >",
+    "Subline": "NA",
+    "EventLabel": "SUB|MC|mshirts|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA|WC-WS-WA|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/Homepage_322x300_AllEyesOnNew.jpg",
+    "Exit Url": "/women/new-products",
+    "Headline": "All Eyes on New",
+    "Subline": "The season's must-have fabrics",
+    "EventLabel": "NEWA|WC-WA-WS|walleyesonnew|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/TreatYourself_Homepage_322x300.jpg",
+    "Exit Url": "/all-products/",
+    "Headline": "TREAT YOURSELF: Celebrate payday in style!",
+    "Subline": "Get 20% off min spend P2,500 use code 20TREAT. \nGet 15% off min spend P1,800 use code 15TREAT.",
+    "EventLabel": "SAL|WC|treatyourself|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/322x300_WhiteOut.jpg",
+    "Exit Url": "/men/trends/white-sneakers/",
+    "Headline": "White Out",
+    "Subline": "The white sneaker trend has taken over the sidewalks",
+    "EventLabel": "SUB-THE|MS|wwhiteoutsnekaers|ALL|NA"
+  }
+]
