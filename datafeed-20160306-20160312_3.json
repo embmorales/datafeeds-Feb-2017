@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_Hero_966x500_InternationalWomenDay.jpg",
+    "Exit Url": "/women/international-womens-day/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Women|InternationalWomensDay|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_N1_FitnessInStyle_360x420.jpg",
+    "Exit Url": "/women/sports/new-products/",
+    "Headline": "Fitness in Style",
+    "Subline": "Get back to the exercise drill, in the performance sportswear with personality",
+    "EventLabel": "CAT|Women|FitnessInStyle|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2-CU1-CU4_620x420_TwiceAsNice.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=bags-shoes-promo",
+    "Headline": "TWICE AS NICE",
+    "Subline": "Buy 2 & get 25% off on shoes and bags from your favorite brands",
+    "EventLabel": "CAT-SAL|Women|TwiceAsNiceBuy2Get25off|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_N2_620x420_borrowedfromtheboys.jpg",
+    "Exit Url": "/women/trends/androgynous/",
+    "Headline": "BORROWED FROM THE BOYS",
+    "Subline": "The best finds straight from your boyfriend's closet",
+    "EventLabel": "TRE|Women|BorrowedFromTheBoys|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_N1-CU2-CU3_360x420_RevealTheRadiance.jpg",
+    "Exit Url": "/women/beauty/skincare/",
+    "Headline": "REVEAL THE RADIANCE",
+    "Subline": "Skincare products that bring out that natural glow",
+    "EventLabel": "CAT|Women|RevealTheRadianceBeauty|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_CU2_360x420_ShortCutUnder800.jpg",
+    "Exit Url": "/women/clothing/shorts/?sort=popularity&price=249-799",
+    "Headline": "SHORT CUT",
+    "Subline": "Show some skin in these short styles fit for summer under P800",
+    "EventLabel": "CAT|Women|ShortCutsUnderP800|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_CU4_620x420_PerfectPinstripes.jpg",
+    "Exit Url": "/women/trends/pinstripes/",
+    "Headline": "PERFECT PINSTRIPES",
+    "Subline": "Get into a little stripes-tease making your outfits instantly chic",
+    "EventLabel": "TRE|Women|PerfectPinstripes|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_322x165_ZALORA.jpg",
+    "Exit Url": "/women/zalora/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|zalorafb|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_322x165_Wallis.jpg",
+    "Exit Url": "/women/clothing/wallis/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wallisfb|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_322x165_Havaianas.jpg",
+    "Exit Url": "/women/shoes/havaianas/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|havaianasfb|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_322x165_CathKidston.jpg",
+    "Exit Url": "/women/cath-kidston/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|cathkidstonfb|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_322x165_Loreal.jpg",
+    "Exit Url": "/women/beauty/l-oreal-paris/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|lorealparisfb|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_B1-6_322x165-UnderArmour.jpg",
+    "Exit Url": "/women/under-armour/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|underarmourfb|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Tops_w9.jpg",
+    "Exit Url": "/women/clothing/tops/",
+    "Headline": "NA",
+    "Subline": "Shop Tops >",
+    "EventLabel": "CAT|Women|wtops|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Heels_w9.jpg",
+    "Exit Url": "/women/shoes/heels/",
+    "Headline": "NA",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|wheels|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Dresses_w9.jpg",
+    "Exit Url": "/women/clothing/dresses/",
+    "Headline": "NA",
+    "Subline": "Shop Dresses >",
+    "EventLabel": "CAT|Women|wdresses|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Makeup_w9.jpg",
+    "Exit Url": "/women/beauty/make-up/",
+    "Headline": "NA",
+    "Subline": "Shop Make-up >",
+    "EventLabel": "CAT|Women|wmakeup|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Backpacks_w9.jpg",
+    "Exit Url": "/women/bags/backpacks/",
+    "Headline": "NA",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "CAT|Women|wbackpack|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Men_UrbanClassic_hero_996x500.jpg",
+    "Exit Url": "/men/trends/casual/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|UrbanClassic|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N1_360x420_New_In_Under999.jpg",
+    "Exit Url": "/men/new-products/?price=999-40115",
+    "Headline": "New-In Styles",
+    "Subline": "Stand out with these staple pieces from P999",
+    "EventLabel": "NEWA|MC-MS-MA|mnewinstyles|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/620x420_BagsShoes25off.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=bags-shoes-promo",
+    "Headline": "Mix It Up",
+    "Subline": "Buy 2 & More, Get 25% off",
+    "EventLabel": "CAT-SAL|Men|RPLBagsShoesBuy2Get25Off|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Men_FB_Bench_322x165.jpg",
+    "Exit Url": "/men/bench/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|benchfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Men_FB_Mango_B1-6_322x165.jpg",
+    "Exit Url": "/men/mango-man/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mangomanfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Men_FB_Invicta_322x165.jpg",
+    "Exit Url": "/men/watches/invicta/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|invictafb|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Men_FB_Puma_322x165.jpg",
+    "Exit Url": "/men/puma/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|pumafb|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Men_FB_Ego_322x165.jpg",
+    "Exit Url": "/men/clothing/ego/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|egofb|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Men_FB_Bavin_322x165.jpg",
+    "Exit Url": "/men/accessories/bavin/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|bavinfb|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_SportsShoes_w9.jpg",
+    "Exit Url": "/men/sports/sports-footwear/",
+    "Headline": "NA",
+    "Subline": "Shop Sport Shoes >",
+    "EventLabel": "CAT|Men|msportshoes|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Tshirts_w9.jpg",
+    "Exit Url": "/men/clothing/t-shirts/",
+    "Headline": "NA",
+    "Subline": "Shop T-Shirts >",
+    "EventLabel": "CAT|Men|mtshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Shirts_w9.jpg",
+    "Exit Url": "/men/clothing/shirts/",
+    "Headline": "NA",
+    "Subline": "Shop Shirts >",
+    "EventLabel": "CAT|Men|mshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Watches_w9.jpg",
+    "Exit Url": "/men/watches/",
+    "Headline": "NA",
+    "Subline": "Shop Watches >",
+    "EventLabel": "CAT|Men|mwatches|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Jeans_w9.jpg",
+    "Exit Url": "/men/clothing/jeans/",
+    "Headline": "NA",
+    "Subline": "Shop Jeans >",
+    "EventLabel": "CAT|Men|mjeans|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_Hero_600x600_InternationalWomenDay.jpg",
+    "Exit Url": "/women/international-womens-day/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Women|InternationalWomensDay|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Women_N1_FitnessInStyle_620x420.jpg",
+    "Exit Url": "/women/sports/new-products/",
+    "Headline": "Fitness in Style",
+    "Subline": "Get back to the exercise drill, in the performance sportswear with personality",
+    "EventLabel": "CAT|Women|FitnessInStyle|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2-CU1-CU4_620x420_TwiceAsNice.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=bags-shoes-promo",
+    "Headline": "TWICE AS NICE",
+    "Subline": "Buy 2 & get 25% off on shoes and bags from your favorite brands",
+    "EventLabel": "CAT-SAL|Women|TwiceAsNiceBuy2Get25off|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Tops_w9.jpg",
+    "Exit Url": "/women/clothing/tops/",
+    "Headline": "NA",
+    "Subline": "Shop Tops >",
+    "EventLabel": "CAT|Women|wtops|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Heels_w9.jpg",
+    "Exit Url": "/women/shoes/heels/",
+    "Headline": "NA",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|wheels|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/20170303_Men_UrbanClassic_mobileweb_hero_600x600.jpg",
+    "Exit Url": "/men/trends/casual/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|UrbanClassic|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2_620x420_NewInStyles.jpg",
+    "Exit Url": "/men/new-products/?price=999-40115",
+    "Headline": "New-In Styles",
+    "Subline": "Stand out with these staple pieces from P999",
+    "EventLabel": "NEWA|MC-MS-MA|mnewinstyles|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2_NEWARRIVALS_620x420_Wrangler25off.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=bags-shoes-promo",
+    "Headline": "Mix It Up",
+    "Subline": "Buy 2 & More, Get 25% off",
+    "EventLabel": "CAT-SAL|Men|RPLBagsShoesBuy2Get25Off|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_SportsShoes_w9.jpg",
+    "Exit Url": "/men/sports/sports-footwear/",
+    "Headline": "NA",
+    "Subline": "Shop Sport Shoes >",
+    "EventLabel": "CAT|Men|msportshoes|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/dy/Cat_Tshirts_w9.jpg",
+    "Exit Url": "/men/clothing/t-shirts/",
+    "Headline": "NA",
+    "Subline": "Shop T-Shirts >",
+    "EventLabel": "CAT|Men|mtshirts|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/HP_322x300_TwiceAsNice.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=bags-shoes-promo",
+    "Headline": "TWICE AS NICE",
+    "Subline": "Buy 2 & get 25% off on shoes and bags from your favorite brands",
+    "EventLabel": "CAT-SAL|Women|TwiceAsNiceBuy2Get25off|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/HomepageBanner_322x300-PerfectPinstripes.jpg",
+    "Exit Url": "/women/trends/pinstripes/",
+    "Headline": "PERFECT PINSTRIPES",
+    "Subline": "Get into a little stripes-tease making your outfits instantly chic",
+    "EventLabel": "TRE|Women|PerfectPinstripes|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/UrbanClassics_322x300.jpg",
+    "Exit Url": "/men/trends/casual/",
+    "Headline": "Urban Classics",
+    "Subline": "Casual wear for an effortless day, every day",
+    "EventLabel": "TRE|Men|UrbanClassic|ALL|NA"
+  }
+]
