@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/women/all-products/?cmpgn_four=chic-list",
+    "Headline": "Chic List  : Dresses and Tops under P1,000",
+    "Subline": "Bag these stylish finds at your most wanted prices",
+    "EventLabel": "TRE|Women|wchiclist|ALL|NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/SEGMENT_HERO_996x500_BdayLP_KateParas.jpg",
+    "Exit Url": "/zalora-anniversary-women",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Women|wfifthbdayzalorakateparas|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N1_360x420_Paez_NewArrivals.jpg",
+    "Exit Url": "/women/shoes/paez/",
+    "Headline": "PAEZ EXCLUSIVE COLLECTION",
+    "Subline": "Shop the latest collection from this fun footwear brand",
+    "EventLabel": "BRA|Women|wpaezshoes|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2-NCU2_620x420-Cath_Kidston.jpg",
+    "Exit Url": "/women/cath-kidston/",
+    "Headline": "CATH KIDSTON",
+    "Subline": "New arrivals straight from the Home of Modern Vintage",
+    "EventLabel": "BRA|Women|wcathkidston|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2-CU1-CU4_620x420_ChicList.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=chic-list",
+    "Headline": "Chic List  : Dresses and Tops under P1,000",
+    "Subline": "Bag these stylish finds at your most wanted prices",
+    "EventLabel": "TRE|Women|wchiclist|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N1_320x420_Bag_It.jpg",
+    "Exit Url": "/women/bags/new-products/?sort=popularity&price=275-999",
+    "Headline": "BAG IT",
+    "Subline": "Pack in style with our new arrivals under P1000",
+    "EventLabel": "CAT|Women|wbagitunder1000|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N1_NEWARRIVALS_360x420_BeautySpotlight.jpg",
+    "Exit Url": "/women/beauty/new-products",
+    "Headline": "BEAUTY SPOTLIGHT",
+    "Subline": "Luxe it up with these must-haves",
+    "EventLabel": "CAT|Women|wbeautyspotlight|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2-CU1-CU4_620x420_LaIsla.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=la-isla",
+    "Headline": "LA ISLA",
+    "Subline": "Beat the heat in breezy dresses, tropical prints and fringe sandals fit for your summer escape",
+    "EventLabel": "TRE|Women|wlaisla|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/FeaturedBrand_322x165_20170310_Paez.jpg",
+    "Exit Url": "/women/paez/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wpaezshoesfb|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/FeaturedBrand_322x165_ZALORA_20170310.jpg",
+    "Exit Url": "/women/clothing/zalora/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wzalorafb|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/B1-6_322x165_PumaTime_20170310.jpg",
+    "Exit Url": "/women/sports/puma",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wpumafb|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/FeaturedBrand_322x16_Factorie_20170310.jpg",
+    "Exit Url": "/women/clothing/factorie/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wfactoriefb|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/FeaturedBrand_322x16-Caite_20170310.jpg",
+    "Exit Url": "/women/watches/caite/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wcaitefb|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/322x165_Happy-Skin-BATB_2_20170310.jpg",
+    "Exit Url": "/women/beauty/happy-skin/?getSKU=HA428BE26FRHPH--HA428BE83UYIPH--HA428BE84UYHPH--HA428BE92UXZPH--HA428BE82UYJPH--HA428BE81UYKPH",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|whappyskinbatbfb|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/C3_Cross-Body Bags_300x198.jpg",
+    "Exit Url": "/women/bags/cross-body-bags/",
+    "Headline": "Shop Cross-Body Bags >",
+    "Subline": "Shop Cross-Body Bags >",
+    "EventLabel": "CAT|Women|wcrossbodybags|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/C2_BeautyTools_300x198.jpg",
+    "Exit Url": "/women/beauty/beauty-tools/",
+    "Headline": "Shop Beauty Tools >",
+    "Subline": "Shop Beauty Tools >",
+    "EventLabel": "CAT|Women|wbeautytools|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/C3_Jumpsuit_375x500.jpg",
+    "Exit Url": "/women/clothing/jumpsuits",
+    "Headline": "Shop Jumpsuits >",
+    "Subline": "Shop Jumpsuits >",
+    "EventLabel": "CAT|Women|wjumpsuits|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/C3_Heels_300x198.jpg",
+    "Exit Url": "/women/shoes/heeled-sandals/",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|wheels|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/C3_SportsBra_300x198.jpg",
+    "Exit Url": "/women/sports/sports-bras/",
+    "Headline": "Shop Sports Bras >",
+    "Subline": "Shop Sports Bras >",
+    "EventLabel": "CAT|Women|wsportsbra|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "/men/all-products/?cmpgn_two=shoesbelow1499",
+    "Headline": "Perfect Pair: Footwear collection at P1,499 & below",
+    "Subline": "Shop now!",
+    "EventLabel": "TRE|Men|wperfectpairunder1499|ALL|NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/SEGMENT_HERO_996x500_BdayLP_Jigs.jpg",
+    "Exit Url": "/zalora-anniversary-men/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Men|mfifthbdayzalorajigs|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N1_360x420_Paez_New_Arrivals.jpg",
+    "Exit Url": "/men/paez/",
+    "Headline": "PAEZ EXCLUSIVE COLLECTION",
+    "Subline": "Straight from Argentina, we bring you the latest from this fun footwear brand",
+    "EventLabel": "BRA|Men|mpaezshoes|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2_620x420_Tees_and_Hoodies_Dont_Sweat_it.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=tees-hoodies-under1000",
+    "Headline": "Don' Sweat It",
+    "Subline": "Tees & Hoodies Under P1,000",
+    "EventLabel": "CAT|Men|mteeshoodiesunder1000|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/F_H_322x165_20170310_FB.jpg",
+    "Exit Url": "/men/folded-hung/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mfoldedhungfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/FeaturedBrand_Casio_322x165_20170310_FB.jpg",
+    "Exit Url": "/men/watches/casio/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mcasiofb|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/WorldBalance_322x165_20170310_FB.jpg",
+    "Exit Url": "/men/world-balance/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mworldbalancefb|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/Desktop_asics_322x165_20170310_FB.jpg",
+    "Exit Url": "/men/asics/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|masicsfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/Levis_322x165_20170310_FB.jpg",
+    "Exit Url": "/men/levi-s/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mlevisfb|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/Desktop_rayban_B1-6_322x165_20170310_FB.jpg",
+    "Exit Url": "/men/rayban/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mraybanfb|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/Sneakers_cat1_20170310.jpg",
+    "Exit Url": "/men/shoes/sneakers/?getSKU=IT153SH68NOLPH",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "CAT|Men|msneakers|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/SportsAccessories_cat4_20170310.jpg",
+    "Exit Url": "/men/sports/sports-accessories/?getSKU=NI126AC83CSUPH",
+    "Headline": "Shop Sports Accessories >",
+    "Subline": "Shop Sports Accessories >",
+    "EventLabel": "CAT|Men|msportsaccessories|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/polshirt_cat1_20170310.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/?getSKU=GR688AA02JXXPH",
+    "Headline": "Shop Polo Shirts >",
+    "Subline": "Shop Polo Shirts >",
+    "EventLabel": "CAT|Men|mpoloshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/shorts_cat1_20170310.jpg",
+    "Exit Url": "/men/clothing/shorts/?getSKU=WR067AA88OIDPH",
+    "Headline": "Shop Shorts >",
+    "Subline": "Shop Shorts >",
+    "EventLabel": "CAT|Men|mshorts|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/Grooming_cat5.jpg",
+    "Exit Url": "/men/grooming/?getSKU=WF973BE93YFMPH",
+    "Headline": "Shop Grooming >",
+    "Subline": "Shop Grooming >",
+    "EventLabel": "CAT|Men|mgrooming|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/mobileweb_skinnyGIF_700x200_ChicList.gif",
+    "Exit Url": "/women/all-products/?cmpgn_four=chic-list",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wchiclist|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/MOBILEWEB_HERO_600x600_BdayLP_KateParas.jpg",
+    "Exit Url": "/zalora-anniversary-women",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Women|wfifthbdayzalorakateparas|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2_620x420_Paez_newArrivals.jpg",
+    "Exit Url": "/women/shoes/paez/",
+    "Headline": "PAEZ EXCLUSIVE COLLECTION",
+    "Subline": "Straight from Argentina, we bring you the latest from this fun footwear brand",
+    "EventLabel": "BRA|Women|wpaezshoes|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2-NCU2_620x420-Cath_Kidston.jpg",
+    "Exit Url": "/women/cath-kidston/",
+    "Headline": "CATH KIDSTON",
+    "Subline": "New arrivals straight from the Home of Modern Vintage",
+    "EventLabel": "BRA|Women|wcathkidston|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/C3_Jumpsuit_300x198.jpg",
+    "Exit Url": "/women/clothing/jumpsuits",
+    "Headline": "Shop Jumpsuits >",
+    "Subline": "Shop Jumpsuits >",
+    "EventLabel": "CAT|Women|wjumpsuits|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/C3_Heels_300x198.jpg",
+    "Exit Url": "/women/shoes/heeled-sandals/",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|wheels|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/700x200_PerfectFair.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=shoesbelow1499",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|wperfectpairunder1499|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/MOBILEWEB_HERO_600x600_BdayLP_Jigs.jpg",
+    "Exit Url": "/zalora-anniversary-men",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "RET|Men|mfifthbdayzalorajigs|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2_620x420_Paez_New_Arrivals.jpg",
+    "Exit Url": "/men/paez/",
+    "Headline": "PAEZ EXCLUSIVE COLLECTION",
+    "Subline": "Straight from Argentina, we bring you the latest from this fun footwear brand",
+    "EventLabel": "BRA|Men|mpaezshoes|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/N2_620x420_Tees_and_Hoodies_Dont_Sweat_it.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=tees-hoodies-under1000",
+    "Headline": "Don' Sweat It",
+    "Subline": "Tees & Hoodies Under P1,000",
+    "EventLabel": "CAT|Men|mteeshoodiesunder1000|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/Sneakers_cat1_20170310.jpg",
+    "Exit Url": "/men/shoes/sneakers/?getSKU=IT153SH68NOLPH",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "CAT|Men|msneakers|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/polshirt_cat2_20170310.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/?getSKU=GR688AA02JXXPH",
+    "Headline": "Shop Polo Shirts >",
+    "Subline": "Shop Polo Shirts >",
+    "EventLabel": "CAT|Men|mpoloshirts|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/HP_322x300_ChicList.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=chic-list",
+    "Headline": "Dresses and Tops under P1,000",
+    "Subline": "Bag these stylish finds at your most wanted prices",
+    "EventLabel": "TRE|Women|wchiclist|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/bag-it-homepage.jpg",
+    "Exit Url": "/women/bags/new-products/?sort=popularity&price=275-999",
+    "Headline": "BAG IT",
+    "Subline": "Pack in style with our new arrivals under P1000",
+    "EventLabel": "CAT|Women|wbagitunder1000|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/DY/DontSweatIt_322x300.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=tees-hoodies-under1000",
+    "Headline": "Don' Sweat It",
+    "Subline": "Tees & Hoodies Under P1,000",
+    "EventLabel": "CAT|Men|mteeshoodiesunder1000|ALL|NA"
+  }
+]
