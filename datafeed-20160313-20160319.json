@@ -4,30 +4,30 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/women/all-products/?cmpgn_four=chic-list",
-    "Headline": "Chic List  : Dresses and Tops under P1,000",
-    "Subline": "Bag these stylish finds at your most wanted prices",
-    "EventLabel": "TRE|Women|wchiclist|ALL|NA"
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "wsl1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/shoes/havaianas",
+    "Headline": "<span style=\"color:#f8fc88\">20% off</span> all Havaianas this National Flip-Flops Day",
+    "Subline": "Ends March 17, 11:59pm",
+    "EventLabel": "BRA|Women|havaianas20off|ALL|ZAP"
   },
   {
     "Placement": "wsr1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Exit Url": "/women/cln/special-price/",
+    "Headline": "CLN MEGA SALE: <span style=\"color:#f8fc88\">UP TO 70 off</span>",
+    "Subline": "The best fashion at prices you can't resist - bags, clothing and shoes",
+    "EventLabel": "BRA|Women|CLNmegasaleupto70off|ALL|ZAP"
   },
   {
     "Placement": "wh1",
@@ -214,10 +214,10 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "NA",
-    "Exit Url": "/men/all-products/?cmpgn_two=shoesbelow1499",
-    "Headline": "Perfect Pair: Footwear collection at P1,499 & below",
-    "Subline": "Shop now!",
-    "EventLabel": "TRE|Men|wperfectpairunder1499|ALL|NA"
+    "Exit Url": "/women/shoes/havaianas",
+    "Headline": "<span style=\"color:#f8fc88\">20% off</span> all Havaianas this National Flip-Flops Day",
+    "Subline": "Ends March 17, 11:59pm",
+    "EventLabel": "BRA|Women|havaianas20off|ALL|ZAP"
   },
   {
     "Placement": "msl1",
